@@ -1,0 +1,12 @@
+aDd “Kill Bill”, 3 
+ReMove “Hard Kill”,2
+rent “Harry Potter”
+rennt “Tenet”
+aDd “Harry Potter”, 2 
+ReMove “The Trial of the Chicago 7”, 4
+rent “Over the Moon”
+retUrn “The Invisible Man”
+auDd “Stranger Things”, 7
+ReMove “Mulan”,2
+rent “Enola Holmes”
+retlUrn “Finding Nemo”
